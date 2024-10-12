@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://givebititoce.pages.dev/sitemap.xml
